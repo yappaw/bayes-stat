@@ -6,6 +6,6 @@ Python Programs
 -----------------------------------
 Under construction.
 
-* **01-basic-grammar.py** - Python grammatical basics.
-
-* **02-data-analysis.ipynb** - data analysis with Jupyter Notebook.
+* **01-basic-grammar.ipynb** - Python grammatical basics.
+* **02-data-analysis.ipynb** - data operations with Jupyter Notebook.
+* **03-classical-simu.ipynb** - classical simulation methods.
