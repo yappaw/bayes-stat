@@ -9,3 +9,4 @@ Under construction.
 * **01-basic-grammar.ipynb** - Python grammatical basics.
 * **02-data-analysis.ipynb** - data operations with Jupyter Notebook.
 * **03-classical-simu.ipynb** - classical simulation methods.
+* **04-mcmc-simu.ipynb** - MCMC simulation methods.
