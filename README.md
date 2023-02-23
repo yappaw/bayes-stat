@@ -6,7 +6,9 @@ Python Programs
 -----------------------------------
 Under construction.
 
-* **01-basic-grammar.ipynb** - Python grammatical basics.
-* **02-data-analysis.ipynb** - data operations with Jupyter Notebook.
-* **03-classical-simu.ipynb** - classical simulation methods.
-* **04-mcmc-simu.ipynb** - MCMC simulation methods.
+* **01-python-grammar.ipynb** - Python grammatical basics.
+* **02-data-analysis.ipynb** - data operations with pandas.
+* **03-ndarray.ipynb** - array operations with numpy.
+* **04-classical-simu.ipynb** - classical simulation methods.
+* **05-mcmc-simu.ipynb** - MCMC simulation methods.
+* **06-linear-regress.ipynb** - linear regression analysis.
