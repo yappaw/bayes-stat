@@ -4,11 +4,13 @@ This course provides a detailed coverage of Bayesian inferential methods and the
 
 Python Programs
 -----------------------------------
-Under construction.
+Accompanying lecture slides are available at https://econdojo.github.io/courses/e6930
 
 * **01-python-grammar.ipynb** - Python grammatical basics.
 * **02-data-analysis.ipynb** - data operations with pandas.
 * **03-ndarray.ipynb** - array operations with numpy.
 * **04-classical-simu.ipynb** - classical simulation methods.
 * **05-mcmc-simu.ipynb** - MCMC simulation methods.
-* **06-linear-regress.ipynb** - linear regression analysis.
+* **06-app-student-t.ipynb** - application to regression with Student-t error.
+* **07-app-tobit.ipynb** - application to Tobit censored regression.
+* **08-app-binary.ipynb** - application to binary response data.
