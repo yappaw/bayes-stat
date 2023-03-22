@@ -14,3 +14,5 @@ Accompanying lecture slides are available at https://econdojo.github.io/courses/
 * **06-app-student-t.ipynb** - application to regression with Student-t error.
 * **07-app-tobit.ipynb** - application to Tobit censored regression.
 * **08-app-binary.ipynb** - application to binary response data.
+* **09-app-sur.ipynb** - application to seemingly unrelated regression.
+* **10-app-panel.ipynb** - application to panel data.
