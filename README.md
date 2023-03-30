@@ -16,3 +16,4 @@ Accompanying lecture slides are available at https://econdojo.github.io/courses/
 * **08-app-binary.ipynb** - application to binary response data.
 * **09-app-sur.ipynb** - application to seemingly unrelated regression.
 * **10-app-panel.ipynb** - application to panel data.
+* **11-app-ar.ipynb** - application to regression with autoregressive error.
