@@ -1,5 +1,9 @@
 # ECON 6100 - Introduction to Bayesian Statistics
 
+<p align="center">
+  <img src="e6100.jpg" alt="awww" width="50%" height="50%">
+</p>
+
 This course provides a detailed coverage of Bayesian inferential methods and their applications to a variety of problems drawn from economics and business. Starting with basic concepts of probability and inference, the treatment covers prior and posterior distributions, classical and MCMC simulation methods, regressions for univariate and multivariate outcomes, and computation of the marginal likelihood and model choice. The key learning objective is for students to develop *hands-on* Bayesian and Python skills required to conduct data analysis useful for economic and financial decision making. The course will help prepare students entering doctoral education or starting careers in economics, finance, marketing, operations, accounting, political science, statistics, and biostatistics.
 
 ## Class Information
