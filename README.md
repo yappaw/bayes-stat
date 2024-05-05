@@ -1,4 +1,4 @@
-# ECON 6100 - Introduction to Bayesian Statistics
+# Introduction to Bayesian Statistics
 
 <p align="center">
   <img src="e6100.jpg" alt="awww" width="50%" height="50%">
