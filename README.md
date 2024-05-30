@@ -12,9 +12,9 @@ This course provides a detailed coverage of Bayesian inferential methods and the
 * **Location:** Cook Hall 236
 * **Time:** Tuesday 6:00pm-9:15pm
 * **Office hours:** TR 2:00pm-3:00pm & by appointment
-* **Econ Hub:** [discord.gg/SsrNPEeP2P](https://discord.gg/SsrNPEeP2P)
+* **Discord:** [discord.gg/SsrNPEeP2P](https://discord.gg/SsrNPEeP2P)
 * **TA:** [openai.com/blog/chatgpt](https://openai.com/blog/chatgpt)
-* **Zoom link:** [slu.zoom.us/my/econdojo](https://slu.zoom.us/my/econdojo)
+* **Zoom:** [slu.zoom.us/my/econdojo](https://slu.zoom.us/my/econdojo)
 
 ## Lecture Slides
 
