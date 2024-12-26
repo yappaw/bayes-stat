@@ -8,13 +8,8 @@ This course provides a detailed coverage of Bayesian inferential methods and the
 
 ## Class Information
 
-* [Spring 2024 Syllabus](/pdf/E6100syllabus.pdf)
-* **Location:** Cook Hall 236
-* **Time:** Tuesday 6:00pm-9:15pm
-* **Office hours:** TR 2:00pm-3:00pm & by appointment
-* **Discord:** [discord.gg/SsrNPEeP2P](https://discord.gg/SsrNPEeP2P)
-* **TA:** [openai.com/blog/chatgpt](https://openai.com/blog/chatgpt)
-* **Zoom:** [slu.zoom.us/my/econdojo](https://slu.zoom.us/my/econdojo)
+* **Syllabus:** [Spring 2025](/pdf/E6100syllabus.pdf)
+* **Discord:** [Econ Hub](https://discord.gg/SsrNPEeP2P)
 
 ## Lecture Slides
 
